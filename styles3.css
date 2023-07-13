@@ -1,0 +1,29 @@
+.div1{
+    height: 1200px;
+    width: 1000px;
+    background-color: black;
+}
+.div4{
+    height: 100px;
+    width: 1100px;
+    background-color: white;
+    position: relative;
+    top: 300px;
+    margin-left: 30px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: grey;
+}
+h2{
+    text-align: center;
+    position: relative;
+    top: 300px;
+}
